@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Pal, a 4rd-year engineering student.<br>
+Hey, I’m Pal, a 4th-year engineering student.<br>
 I’m into front-end development and design, and I like building clean, simple UIs.<br>
 Still learning and improving as I work on different projects.
 
